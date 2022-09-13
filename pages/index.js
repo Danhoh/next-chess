@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <>
       <p>This is index.js</p>
-      <Figure/>
       <Board/>
+      
     </>
   )
 }
